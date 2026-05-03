@@ -31,4 +31,4 @@ I’m transitioning into the **Quality Assurance (QA)** field, building a solid 
 📫 How to reach me:
 mussiocreative@gmail.com
 
-  
+<img src="https://raw.githubusercontent.com/thaismussio/thaismussio/output/snake.svg" alt="Snake animation" />
